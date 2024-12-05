@@ -1,3 +1,15 @@
+# TODOs
+
+- [ ] Create a Docker image for GCP
+- [ ] Run evals with pretrained models
+- [ ] Start the training on partial data
+- [ ] Start the training on own data if the previous task is a success 
+
+
+
+
+
+
 # V-JEPA: Video Joint Embedding Predictive Architecture
 
 Official PyTorch codebase for the _video joint-embedding predictive architecture_, V-JEPA, a method for self-supervised learning of visual representations from video.
